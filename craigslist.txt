@@ -1,0 +1,14 @@
+Region_ID	region_name				
+					
+					
+					
+User_ID	  username	  password	  preferred_region	  location	
+					
+					
+					
+Posts_ID	title	text	user_id	  category_id	  region_id
+					
+					
+					
+Category_ID	  cat_name				
+					

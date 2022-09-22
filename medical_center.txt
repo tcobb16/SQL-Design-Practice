@@ -1,0 +1,16 @@
+Doctor ID	doctor_name	doctor_specialty	doctor_location
+1	            smith	    urology	               4
+2	            jones	    ortho	               1
+3	            doe	        endo	               3
+			
+			
+Patient ID	pt_name	pt_birthday	pt_insurance
+1			
+2			
+3			
+			
+			
+Diagnosis ID	dx_name	dx_description	
+1			
+2			
+3			
